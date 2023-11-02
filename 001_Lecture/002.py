@@ -164,3 +164,35 @@ def pue():
     e = 56
     print(p,u,e)# в это функции видны только внутренние аргументы снаружион не видны
 pue() 
+
+
+
+# b = 129
+# print(b//100+ b // 10 % 10+ b %10)
+
+# num = 12
+# int(input(num))
+# res = 0
+# for i in num: 
+#      res = res + int(i)
+# print('Сумма чисел =',res)
+ 
+# n =23
+# for i in range(20,n):
+#     print(i)
+
+# n = 5
+# int(input(n))
+# for i in n:
+#     print(i)
+
+
+# a = [4,67,3,-9,-13,56,34,-7]
+# for i in a:
+#     print(i)  
+#     if i == 99:
+#             print('Ура нашол 99')
+#             break
+# else:
+#     print('Не нашол 99!')
+
