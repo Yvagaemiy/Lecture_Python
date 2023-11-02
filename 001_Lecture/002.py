@@ -196,3 +196,10 @@ pue()
 # else:
 #     print('Не нашол 99!')
 
+# Пробелы
+
+a = 'Pyhton'
+b = 'Hello'
+c = 'Вася'
+print(a,b,c)
+print(a,b,c, sep= '--------', end='\n')
